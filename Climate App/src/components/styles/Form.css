@@ -4,3 +4,12 @@ input{
     background-color: black;
     border:none;
 }
+.button-search{
+    margin-left:12px ;
+    background-color: black;
+}
+.form-climate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
